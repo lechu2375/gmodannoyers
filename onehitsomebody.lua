@@ -1,8 +1,4 @@
 
 
-function nakurw(plajer, miejsce, inf)
-	if plajer:Alive() and plajer:SteamID64() == "76561198075997149" then ---- if plajer:Alive() and plajer:SteamID64() == "HERE STEAMID" or plajer:SteamID64() == "HERE STEAMID" or plajer:SteamID64() == "HERE STEAMID" then
-		inf:Kill()
-end end
+code in rework loll
 
-hook.Add("ScalePlayerDamage","beczka", nakurw)
